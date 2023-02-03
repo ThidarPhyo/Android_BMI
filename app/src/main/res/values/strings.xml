@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Android112_1</string>
+    <string name="messageStr" />
+    <string name="hintStr">Please Enter Message</string>
+    <string name="nextBtnStr">入力</string>
+    <string name="finishBtnStr">Ok</string>
+    <string name="edtMesStr" />
+    <string name="nameStr">名前を入力してください</string>
+    <string name="heightStr">身長を入力してください</string>
+    <string name="weightStr">体重を入力してください</string>
+    <string name="okStr">判定</string>
+    <string name="namePlaceholder">Please Enter Name</string>
+    <string name="heightPlaceholder">Please Enter Height</string>
+    <string name="weightPlaceholder">Please Enter Weight</string>
+    <string name="bodPlaceholder">Please Enter Birthday</string>
+    <string name="bmiPlaceholder"></string>
+    <string name="meiNameStr">名を入力</string>
+    <string name="seiNameStr">姓を入力</string>
+    <string name="bodStr">誕生日を入力してください</string>
+</resources>
